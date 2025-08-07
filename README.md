@@ -170,17 +170,3 @@ cd khadamatak-platform
 ```
 
 ---
-
-## ✅ Notes
-
-* Make sure Python and Node.js are installed
-* Use `.env` files for secret keys and configurations in production
-
-```
-
----
-
-### 🔽 Would You Like to Download This as a Ready `README.md`?
-
-I can generate the file and send it to you directly for download — just confirm, and I’ll prepare it.
-```
